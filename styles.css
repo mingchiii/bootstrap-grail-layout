@@ -1,1 +1,24 @@
 
+header {
+  width: 100%;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+
+main {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: justify;
+}
+
+footer {
+  width: 100%;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+
